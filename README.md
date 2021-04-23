@@ -2,15 +2,18 @@
 
 A new Flutter project.
 
-## Getting Started
+## ScreenShot
 
-This project is a starting point for a Flutter application.
+![Frame 342 (3)](https://user-images.githubusercontent.com/61135648/115854775-297e7800-a45d-11eb-8d69-321ff10f6697.png)
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+![177783124_906001113305313_645364170517175790_n](https://user-images.githubusercontent.com/61135648/115854599-00f67e00-a45d-11eb-8313-db0b8509cf20.jpg)
+![177382459_506301323709971_3830168534159341279_n](https://user-images.githubusercontent.com/61135648/115854607-018f1480-a45d-11eb-88cf-faacee30fdec.jpg)
+![177570252_3012272842374750_4195401513469007728_n](https://user-images.githubusercontent.com/61135648/115854608-0227ab00-a45d-11eb-9356-9c7b92518eb1.jpg)
+![177930317_3853957701367645_7294345511041537814_n](https://user-images.githubusercontent.com/61135648/115854615-03f16e80-a45d-11eb-97ef-51b13643346c.jpg)
+![177388164_176847970958357_5315701031522913766_n](https://user-images.githubusercontent.com/61135648/115854620-048a0500-a45d-11eb-87ad-8931087f5f85.jpg)
+![177534343_171598038180673_6028530825423884470_n](https://user-images.githubusercontent.com/61135648/115854623-05229b80-a45d-11eb-8950-2e46a980eeef.jpg)
+![177877530_1728370644036357_8191954150419930581_n](https://user-images.githubusercontent.com/61135648/115854625-05bb3200-a45d-11eb-871a-51e11add8fe7.jpg)
+![177511511_277621994018479_5932352679919818489_n](https://user-images.githubusercontent.com/61135648/115854631-0653c880-a45d-11eb-8402-37f2424452f6.jpg)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Design Referense : https://dribbble.com/shots/15494432-Financial-Manager-Mobile-App
